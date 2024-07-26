@@ -15,7 +15,7 @@
 </head>
 
 <body class="antialiased">
-    hi from our sail clone for camilo
+    hi from our sail clone for Camilo
 </body>
 
 </html>
